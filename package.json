@@ -1,0 +1,9 @@
+{
+  "name": "nuvio-stremio-bridge",
+  "version": "1.0.0",
+  "description": "Nuvio scraper repolarini Stremio/AIOStreams custom addon'una cevirir",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "selftest": "node server.js --selftest" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "axios": "^1.7.0", "cheerio": "^1.0.0", "crypto-js": "^4.2.0" }
+}

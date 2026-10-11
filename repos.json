@@ -1,0 +1,30 @@
+[
+  {
+    "key": "nuvio-providers",
+    "name": "Nuvio Providers",
+    "url": "https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json"
+  },
+  {
+    "key": "phisher",
+    "name": "Nuvio local scrapers (Phisher)",
+    "url": "https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/refs/heads/main/manifest.json"
+  },
+  {
+    "key": "turkish-nuvio",
+    "name": "Turkish Nuvio",
+    "url": "https://raw.githubusercontent.com/fmustafayaman/turkish-nuvio/main/manifest.json"
+  },
+  {
+    "key": "mooncrown",
+    "name": "MoonCrown",
+    "url": "https://raw.githubusercontent.com/mooncrown04/nuviotr/refs/heads/main/manifest.json",
+    "exclude": [
+      "m3u.mooncrown.addon"
+    ]
+  },
+  {
+    "key": "wekmed",
+    "name": "Wekmed",
+    "url": "https://raw.githubusercontent.com/Wekmed/nuvio/refs/heads/main/manifest.json"
+  }
+]
